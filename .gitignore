@@ -28,6 +28,7 @@ MANIFEST
 
 # Custom Ignore
 data/
+BITSCode/
 *.zip
 
 # PyInstaller
