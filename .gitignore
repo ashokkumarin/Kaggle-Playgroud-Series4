@@ -30,6 +30,8 @@ MANIFEST
 data/
 BITSCode/
 *.zip
+*.csv
+*.png
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
