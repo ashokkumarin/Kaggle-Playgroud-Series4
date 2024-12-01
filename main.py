@@ -20,7 +20,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
 
-sys.path.append ("lib")
+sys.path.append ("mylib")
 
 from visualization import *
 from utility import *

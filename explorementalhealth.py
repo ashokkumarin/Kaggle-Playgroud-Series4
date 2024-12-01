@@ -15,7 +15,7 @@ from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.naive_bayes import GaussianNB
 
-sys.path.append ("lib")
+sys.path.append ("mylib")
 
 from visualization import *
 from utility import *
